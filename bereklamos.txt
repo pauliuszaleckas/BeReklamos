@@ -1,5 +1,6 @@
 [Adblock Plus]
 ! BeReklamos
+! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
 ||adsplius.lt^$script
 ! === Slepiantys filtrai ===
