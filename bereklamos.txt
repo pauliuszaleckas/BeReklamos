@@ -3,5 +3,7 @@
 ! === Paprasti filtrai ===
 ||adsplius.lt^$script
 ! === Slepiantys filtrai ===
+15min.lt##div[id^="plus_infoblock"]
+15min.lt##iframe[name="plius_frame_outer"]
 ! === Baltieji filtrai ===
 ~skelbiu.lt##.adprice
