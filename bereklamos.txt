@@ -3,4 +3,4 @@
 ! === Paprasti filtrai ===
 ! === Slepiantys filtrai ===
 ! === Baltieji filtrai ===
-@@||skelbiu.lt##.adprice
+~skelbiu.lt##.adprice
