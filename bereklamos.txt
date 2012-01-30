@@ -6,6 +6,8 @@
 ! === Slepiantys filtrai ===
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##iframe[name="plius_frame_outer"]
+delfi.lt##div.delfi-article-banner
+delfi.lt##div.delfi-content-ads
 gismeteo.lt##div#yandex
 ! === Baltieji filtrai ===
 ~skelbiu.lt##.adprice
