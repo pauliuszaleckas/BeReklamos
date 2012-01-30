@@ -1,6 +1,7 @@
 [Adblock Plus]
 ! BeReklamos
 ! === Paprasti filtrai ===
+||adsplius.lt^$script
 ! === Slepiantys filtrai ===
 ! === Baltieji filtrai ===
 ~skelbiu.lt##.adprice
