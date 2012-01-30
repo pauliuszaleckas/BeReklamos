@@ -10,5 +10,7 @@ alfa.lt##div.reklama
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 gismeteo.lt##div#yandex
+one.lt##div[class^="banner-container"]
+one.lt##div[id^="gate."]
 ! === Baltieji filtrai ===
 ~skelbiu.lt##.adprice
