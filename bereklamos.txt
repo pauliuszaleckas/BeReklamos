@@ -34,3 +34,5 @@ zebra.lt##div.banner_border
 zebra.lt##div#topBanners
 ! === Baltieji filtrai ===
 ~skelbiu.lt##.adprice
+! === Tas kas turėtu būti EasyList rinkinyje ===
+##div[id^="bmone2"]
