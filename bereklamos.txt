@@ -4,6 +4,7 @@
 ! === Paprasti filtrai ===
 ||adclick.lt^$script
 ||adocean.111.lt^$script
+||adreview.lt/ad/*
 ||adsplius.lt^$script
 ||ap.delfi.lt/b?*
 ||ipon.lt^$script
