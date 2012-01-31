@@ -3,6 +3,7 @@
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
 ||adsplius.lt^$script
+||ipon.lt^$script
 ! === Slepiantys filtrai ===
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##iframe[name="plius_frame_outer"]
