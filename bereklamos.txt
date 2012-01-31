@@ -5,6 +5,7 @@
 ||adclick.lt^$script
 ||adocean.111.lt^$script
 ||adsplius.lt^$script
+||ap.delfi.lt/b?*
 ||ipon.lt^$script
 ! === Slepiantys filtrai ===
 15min.lt##div[id^="plius_infoblock"]
@@ -17,6 +18,7 @@ delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 diena.lt##div#topReklama
 gismeteo.lt##div#yandex
+klubas.lt##div.klubas-ads-block
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 mokslai.lt##div#myBtn
