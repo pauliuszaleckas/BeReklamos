@@ -15,5 +15,6 @@ lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 one.lt##div[class^="banner-container"]
 one.lt##div[id^="gate."]
+skelbiu.lt##div.advertisementTitle
 ! === Baltieji filtrai ===
 ~skelbiu.lt##.adprice
