@@ -13,6 +13,7 @@ auto.plius.lt##div[class^="ads-ver"]
 auto.plius.lt##div.ads
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
+diena.lt##div#topReklama
 gismeteo.lt##div#yandex
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
