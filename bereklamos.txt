@@ -28,6 +28,7 @@ one.lt##div[id^="gate."]
 skelbiu.lt##div[style="padding: 1px; border-bottom: 1px solid rgb(227, 227, 227); margin-top: -10px;"]
 skelbiu.lt##div[style="width: 980px; height: 200px;"]
 skelbiu.lt##div.advertisementTitle
+technologijos.lt##iframe[src*="iframe_baneris"]
 zebra.lt##div.adsColectionCntnr
 zebra.lt##div.banner_border
 zebra.lt##div#topBanners
