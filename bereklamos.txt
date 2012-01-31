@@ -3,6 +3,7 @@
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
 ||adclick.lt^$script
+||adocean.111.lt^$script
 ||adsplius.lt^$script
 ||ipon.lt^$script
 ! === Slepiantys filtrai ===
