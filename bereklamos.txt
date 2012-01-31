@@ -9,6 +9,8 @@
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##iframe[name="plius_frame_outer"]
 alfa.lt##div.reklama
+auto.plius.lt##div[class^="ads-ver"]
+auto.plius.lt##div.ads
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 gismeteo.lt##div#yandex
