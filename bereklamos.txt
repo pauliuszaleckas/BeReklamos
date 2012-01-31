@@ -2,7 +2,8 @@
 ! BeReklamos
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
-||120x60.lt^$script,third-party
+||120x60.lt^
+||120x60.lt^$script
 ||adclick.lt^$script
 ||adocean.111.lt^$script
 ||adreview.lt/ad/*
