@@ -11,6 +11,7 @@
 alfa.lt##div.reklama
 auto.plius.lt##div[class^="ads-ver"]
 auto.plius.lt##div.ads
+autogidas.lt##div.banner
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 diena.lt##div#topReklama
