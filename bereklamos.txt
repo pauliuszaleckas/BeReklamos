@@ -4,6 +4,7 @@
 ! === Paprasti filtrai ===
 ||120x60.lt^
 ||120x60.lt^$script
+||88x31.lt^
 ||adclick.lt^$script
 ||adocean.111.lt^$script
 ||adreview.lt/ad/*
