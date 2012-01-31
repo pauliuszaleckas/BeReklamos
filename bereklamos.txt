@@ -19,6 +19,7 @@ diena.lt##div#topReklama
 gismeteo.lt##div#yandex
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
+mokslai.lt##div#myBtn
 one.lt##div[class^="banner-container"]
 one.lt##div[id^="gate."]
 skelbiu.lt##div[style="padding: 1px; border-bottom: 1px solid rgb(227, 227, 227); margin-top: -10px;"]
