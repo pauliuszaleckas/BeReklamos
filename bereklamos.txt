@@ -6,6 +6,8 @@
 ||120x60.lt^$script
 ||88x31.lt^
 ||adclick.lt^$script
+||adnet.lt^$script
+||adnetmedia.lt^
 ||adocean.111.lt^$script
 ||adreview.lt/ad/*
 ||adsplius.lt^$script
