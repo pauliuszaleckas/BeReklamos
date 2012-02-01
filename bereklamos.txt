@@ -35,6 +35,8 @@ skelbiu.lt##div[style="width: 980px; height: 200px;"]
 skelbiu.lt##div.advertisementTitle
 sveikata.lt##div.advert
 technologijos.lt##iframe[src*="iframe_baneris"]
+videogaga.one.lt##div.Banner-Menu
+videogaga.one.lt##iframe#banner-top
 zaidimai88.lt##div.group_add
 zebra.lt##div.adsColectionCntnr
 zebra.lt##div.banner_border
