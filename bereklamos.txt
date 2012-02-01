@@ -22,6 +22,7 @@ delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 diena.lt##div#topReklama
 gismeteo.lt##div#yandex
+juokutis.one.lt##div.banner-container
 klubas.lt##div.klubas-ads-block
 lenta.lt##td[style="height: 200px;"]
 lrytas.lt##div.t_3_5
