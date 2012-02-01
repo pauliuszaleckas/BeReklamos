@@ -11,9 +11,11 @@
 ||adsplius.lt^$script
 ||ap.delfi.lt/b?*
 ||ipon.lt^$script
+||m-1.fm/banner/*
 ! === Slepiantys filtrai ===
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##iframe[name="plius_frame_outer"]
+5braskes.lt##div.braskes-ads-iframe
 alfa.lt##div.reklama
 auto.plius.lt##div[class^="ads-ver"]
 auto.plius.lt##div.ads
