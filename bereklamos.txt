@@ -42,6 +42,7 @@ skelbiu.lt##div[style="width: 980px; height: 200px;"]
 skelbiu.lt##div.advertisementTitle
 sveikata.lt##div.advert
 technologijos.lt##iframe[src*="iframe_baneris"]
+tiketa.lt##div#fbPopupDialog
 ve.lt##div[class*="Banner"]
 ve.lt##div.textads2
 ve.lt##div.ve-friends-holder
