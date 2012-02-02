@@ -58,6 +58,7 @@ skelbiu.lt##div.advertisementTitle
 sveikata.lt##div.advert
 technologijos.lt##iframe[src*="iframe_baneris"]
 tiketa.lt##div#fbPopupDialog
+uzdarbis.lt##.bbc_center
 ve.lt##div[class*="Banner"]
 ve.lt##div.textads2
 ve.lt##div.ve-friends-holder
