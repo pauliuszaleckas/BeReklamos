@@ -51,6 +51,7 @@ one.lt##div[id^="gate."]
 panele.lt##div.top_banner_div
 pasiulymubankas.lt##div.banner
 pasmama.lt##div.advert
+powerhitradio.lt##div#container-ads
 rekvizitai.lt##div.banners
 skelbikas.lt##div.banner750
 skelbiu.lt##div[style="padding: 1px; border-bottom: 1px solid rgb(227, 227, 227); margin-top: -10px;"]
