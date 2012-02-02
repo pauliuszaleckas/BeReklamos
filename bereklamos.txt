@@ -12,6 +12,7 @@
 ||ap.delfi.lt/b?*
 ||ipon.lt^$script
 ||m-1.fm/banner/*
+||moteris.lt/uploads/img/banners/*
 ||pasveik.lt/uploads/images/banners/*
 ||pazintys.lt^*/Users_getSticky.js?$script
 ! === Slepiantys filtrai ===
