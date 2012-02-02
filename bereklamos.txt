@@ -57,6 +57,7 @@ ve.lt##div.textads2
 ve.lt##div.ve-friends-holder
 videogaga.one.lt##div.Banner-Menu
 videogaga.one.lt##iframe#banner-top
+xxx.pazintys.lt##div[style="margin-top: 15px; text-align: center;"]
 zaidimai88.lt##div.group_add
 zebra.lt##div.adsColectionCntnr
 zebra.lt##div.banner_border
