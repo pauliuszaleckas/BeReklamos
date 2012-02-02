@@ -12,6 +12,7 @@
 ||ap.delfi.lt/b?*
 ||ipon.lt^$script
 ||m-1.fm/banner/*
+||pazintys.lt^*/Users_getSticky.js?$script
 ! === Slepiantys filtrai ===
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##iframe[name="plius_frame_outer"]
