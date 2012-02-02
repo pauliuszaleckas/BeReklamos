@@ -52,6 +52,7 @@ panele.lt##div.top_banner_div
 pasiulymubankas.lt##div.banner
 pasmama.lt##div.advert
 powerhitradio.lt##div#container-ads
+powerhitradio.lt##div[style="height: 100px; background-color: rgb(0, 0, 0); width: 1096px;"]
 rekvizitai.lt##div.banners
 skelbikas.lt##div.banner750
 skelbiu.lt##div[style="padding: 1px; border-bottom: 1px solid rgb(227, 227, 227); margin-top: -10px;"]
