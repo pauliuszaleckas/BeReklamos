@@ -40,6 +40,7 @@ imones.lt##div.banner
 juokutis.one.lt##div.banner-container
 klubas.lt##div.klubas-ads-block
 lenta.lt##td[style="height: 200px;"]
+lol.lt##div.related-message-box
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 man.lt##td#sidebar1
