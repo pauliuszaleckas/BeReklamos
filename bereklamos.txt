@@ -24,6 +24,9 @@ aruodas.lt##div.banner-top
 auto.plius.lt##div[class^="ads-ver"]
 auto.plius.lt##div.ads
 autogidas.lt##div.banner
+cvbankas.lt##div.bottom_banner
+cvbankas.lt##div.righ_banner
+cvbankas.lt##div.top_banner
 day.lt##div[style="line-height: 25px; margin: 15px 8px 2px auto;"]
 day.lt##li[style="margin-top: 7px;"]
 day.lt##div#reklama
