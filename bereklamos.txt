@@ -25,6 +25,7 @@ aruodas.lt##div.banner-top
 auto.plius.lt##div[class^="ads-ver"]
 auto.plius.lt##div.ads
 autogidas.lt##div.banner
+basketnews.lt##object#bbl_250x250
 cvbankas.lt##div.bottom_banner
 cvbankas.lt##div.righ_banner
 cvbankas.lt##div.top_banner
