@@ -37,6 +37,11 @@ delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 diena.lt##div#topReklama
 einam.lt##div#banner_index_container
+formule1.lt##div[class^="banner"]
+formule1.lt##div.blink_bg
+formule1.lt##div#partners
+formule1.lt##div#timer_left
+formule1.lt##div#timer_right
 gismeteo.lt##div#yandex
 imones.lt##div.banner
 juokutis.one.lt##div.banner-container
