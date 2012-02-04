@@ -70,6 +70,7 @@ skelbiu.lt##div[style="width: 980px; height: 200px;"]
 skelbiu.lt##div.advertisementTitle
 sveikata.lt##div.advert
 technologijos.lt##iframe[src*="iframe_baneris"]
+tikeko.lt##div.banner
 tiketa.lt##div#fbPopupDialog
 tritaskis.lt##div[class^="banner"]
 uzdarbis.lt##.bbc_center
