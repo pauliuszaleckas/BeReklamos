@@ -27,6 +27,7 @@ auto.plius.lt##div.ads
 autobild.veidas.lt##div[class^="textAD"]
 autogidas.lt##div.banner
 basketnews.lt##object#bbl_250x250
+computerbild.veidas.lt##div#sidebar-cats-ad
 cvbankas.lt##div.bottom_banner
 cvbankas.lt##div.righ_banner
 cvbankas.lt##div.top_banner
