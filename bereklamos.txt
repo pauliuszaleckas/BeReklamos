@@ -73,9 +73,11 @@ technologijos.lt##iframe[src*="iframe_baneris"]
 tiketa.lt##div#fbPopupDialog
 tritaskis.lt##div[class^="banner"]
 uzdarbis.lt##.bbc_center
+vardai.org##div.top
 ve.lt##div[class*="Banner"]
 ve.lt##div.textads2
 ve.lt##div.ve-friends-holder
+veidas.lt##div.ad120_box
 veidas.lt##.skelbimas
 videogaga.one.lt##div.Banner-Menu
 videogaga.one.lt##iframe#banner-top
