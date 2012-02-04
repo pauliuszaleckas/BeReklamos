@@ -76,6 +76,7 @@ uzdarbis.lt##.bbc_center
 ve.lt##div[class*="Banner"]
 ve.lt##div.textads2
 ve.lt##div.ve-friends-holder
+veidas.lt##.skelbimas
 videogaga.one.lt##div.Banner-Menu
 videogaga.one.lt##iframe#banner-top
 xxx.pazintys.lt##div[style="margin-top: 15px; text-align: center;"]
@@ -85,6 +86,7 @@ zebra.lt##div.banner_border
 zebra.lt##div#topBanners
 ! === Baltieji filtrai ===
 @@||skelbimai.one.lt/uploads/modules/ads/*
+@@||veidas.lt/wp-content/uploads/ads/*
 ~skelbiu.lt##.adprice
 ! === Tas kas turėtu būti EasyList rinkinyje ===
 ##div[id^="bmone2"]
