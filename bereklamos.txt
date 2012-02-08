@@ -58,6 +58,10 @@ lol.lt##div.related-message-box
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 man.lt##td#sidebar1
+maps.lt##div.title-right-banner
+maps.lt##div#banner-1
+maps.lt##div#partneriai
+maps.lt##div#reklama
 mokslai.lt##div#myBtn
 one.lt##div[class^="banner-container"]
 one.lt##div[id^="gate."]
