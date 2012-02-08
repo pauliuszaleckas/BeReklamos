@@ -23,6 +23,7 @@
 alfa.lt##div.reklama
 aruodas.lt##div.banner-bottom
 aruodas.lt##div.banner-top
+aruodas.lt##td.banners-right
 auto.plius.lt##div[class^="ads-ver"]
 auto.plius.lt##div.ads
 autobild.veidas.lt##div[class^="textAD"]
