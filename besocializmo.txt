@@ -1,0 +1,11 @@
+[Adblock Plus]
+! BeSocializmo
+! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
+! === Paprasti filtrai ===
+||alfa.lt/files/banners/share-sticky/*$script
+||facebook.com/plugins^$third-party
+||plusone.google.com^$third-party
+! === Slepiantys filtrai ===
+##div#shareit-container
+delfi.lt##div.delfi-facebook-multichannel
+! === Baltieji filtrai ===
