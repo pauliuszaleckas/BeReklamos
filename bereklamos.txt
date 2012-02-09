@@ -55,6 +55,7 @@ gismeteo.lt##div#yandex
 imones.lt##div.banner
 juokutis.one.lt##div.banner-container
 klubas.lt##div.klubas-ads-block
+krs.lt##div#right_banner
 laikas.lt##div[class^="banner"]
 lenta.lt##td[style="height: 200px;"]
 lol.lt##div.related-message-box
