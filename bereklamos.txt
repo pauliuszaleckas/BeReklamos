@@ -46,6 +46,7 @@ delfi.lt##div#delfi-header-ads
 diena.lt##div#topReklama
 einam.lt##div#banner_index_container
 erolt.com##div.rekl
+f-1.lt##div#bottombanners
 formule1.lt##div[class^="banner"]
 formule1.lt##div.blink_bg
 formule1.lt##div#partners
