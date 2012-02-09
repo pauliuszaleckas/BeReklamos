@@ -20,6 +20,8 @@
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##iframe[name="plius_frame_outer"]
 5braskes.lt##div.braskes-ads-iframe
+alfa.lt##div.AdComponent
+alfa.lt##div.block_text_links
 alfa.lt##div.reklama
 aruodas.lt##div.banner-bottom
 aruodas.lt##div.banner-top
