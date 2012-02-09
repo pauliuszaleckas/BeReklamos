@@ -6,6 +6,7 @@
 ||facebook.com/plugins^$third-party
 ||plusone.google.com^$third-party
 ! === Slepiantys filtrai ===
+##div.FB_Loader
 ##div#shareit-container
 alfa.lt##a.facebook_share
 delfi.lt##div.delfi-facebook-multichannel
