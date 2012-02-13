@@ -11,4 +11,6 @@
 alfa.lt##a.facebook_share
 alfa.lt##div.fb-comments
 delfi.lt##div.delfi-facebook-multichannel
+pigu.lt##a.addthis_button_facebook
+pigu.lt##a.t-fb
 ! === Baltieji filtrai ===
