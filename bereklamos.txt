@@ -76,6 +76,7 @@ pasmama.lt##div.advert
 powerhitradio.lt##div#container-ads
 powerhitradio.lt##div[style="height: 100px; background-color: rgb(0, 0, 0); width: 1096px;"]
 rekvizitai.lt##div.banners
+respublika.lt##div.block_264_content_promo
 skelbikas.lt##div.banner750
 skelbiu.lt##div[style="padding: 1px; border-bottom: 1px solid rgb(227, 227, 227); margin-top: -10px;"]
 skelbiu.lt##div[style="width: 980px; height: 200px;"]
