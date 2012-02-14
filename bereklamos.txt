@@ -103,6 +103,7 @@ zaidimai88.lt##div.group_add
 zebra.lt##div.adsColectionCntnr
 zebra.lt##div.banner_border
 zebra.lt##div#topBanners
+ziniur.lt##div.ads
 ! === Baltieji filtrai ===
 @@||skelbimai.one.lt/uploads/modules/ads/*
 @@||veidas.lt/wp-content/uploads/ads/*
