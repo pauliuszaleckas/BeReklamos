@@ -3,7 +3,7 @@
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
 ||alfa.lt/files/banners/share-sticky/*$script
-||facebook.com/plugins^$third-party
+||facebook.com^$third-party
 ||plusone.google.com^$third-party
 ! === Slepiantys filtrai ===
 ##div.FB_Loader
