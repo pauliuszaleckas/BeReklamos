@@ -10,6 +10,7 @@
 ||adreview.lt/ad/*
 ||adsplius.lt^$script
 ||ap.delfi.lt/b?*
+||b-a.lt/reklama/*
 ||ipon.lt^$script
 ||m-1.fm/banner/*
 ||moteris.lt/uploads/img/banners/*
