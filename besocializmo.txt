@@ -12,6 +12,8 @@
 15min.lt##div#fb_header_box
 alfa.lt##a.facebook_share
 alfa.lt##div.fb-comments
+automobiliuremontas.lt##div.st-taf
+automobiliuremontas.lt##p.facebook
 delfi.lt##div.delfi-facebook-multichannel
 f-1.lt##div[style="padding: 5px; margin: 5px 0px; border: 1px solid rgb(170, 172, 174); text-align: center;"]
 f-1.lt##iframe.twitter-share-button
