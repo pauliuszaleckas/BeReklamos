@@ -9,6 +9,7 @@
 ##div.FB_Loader
 ##div#shareit-container
 15min.lt##a.nll-facebook
+15min.lt##div#fb_header_box
 alfa.lt##a.facebook_share
 alfa.lt##div.fb-comments
 delfi.lt##div.delfi-facebook-multichannel
