@@ -54,6 +54,7 @@ formule1.lt##div#timer_left
 formule1.lt##div#timer_right
 gismeteo.lt##div#yandex
 imones.lt##div.banner
+interjeras.lt##div[id^="s-ads"]
 juokutis.one.lt##div.banner-container
 klubas.lt##div.klubas-ads-block
 krs.lt##div#right_banner
