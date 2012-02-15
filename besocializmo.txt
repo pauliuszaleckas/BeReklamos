@@ -8,6 +8,7 @@
 ! === Slepiantys filtrai ===
 ##div.FB_Loader
 ##div#shareit-container
+15min.lt##a.nll-facebook
 alfa.lt##a.facebook_share
 alfa.lt##div.fb-comments
 delfi.lt##div.delfi-facebook-multichannel
