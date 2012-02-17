@@ -2,10 +2,12 @@
 ! BeSocializmo
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
+||addthis.com^$third-party
 ||alfa.lt/files/banners/share-sticky/*$script
 ||facebook.com^$third-party
 ||plusone.google.com^$third-party
 ! === Slepiantys filtrai ===
+##div.addthis_toolbox
 ##div.FB_Loader
 ##div#shareit-container
 15min.lt##a.nll-facebook
