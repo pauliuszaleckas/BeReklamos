@@ -7,9 +7,9 @@
 ||facebook.com^$third-party
 ||plusone.google.com^$third-party
 ! === Slepiantys filtrai ===
-##div.addthis_toolbox
 ##div.FB_Loader
 ##div#shareit-container
+~addthis.com##div.addthis_toolbox
 15min.lt##a.nll-facebook
 15min.lt##div#fb_header_box
 alfa.lt##a.facebook_share
