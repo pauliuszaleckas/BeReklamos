@@ -77,6 +77,8 @@ maps.lt##div#reklama
 mokslai.lt##div#myBtn
 one.lt##div[class^="banner-container"]
 one.lt##div[id^="gate."]
+online.lt##div#ad
+online.lt##div#support
 panele.lt##div.top_banner_div
 pasiulymubankas.lt##div.banner
 pasmama.lt##div.advert
