@@ -15,6 +15,7 @@
 15min.lt##div#fb_header_box
 alfa.lt##a.facebook_share
 alfa.lt##div.fb-comments
+alio.lt##td.f_facebook
 automobiliuremontas.lt##div.st-taf
 automobiliuremontas.lt##p.facebook
 butunuoma.lt##div#vk_like
