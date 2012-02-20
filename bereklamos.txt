@@ -75,10 +75,12 @@ maps.lt##div#banner-1
 maps.lt##div#partneriai
 maps.lt##div#reklama
 mokslai.lt##div#myBtn
-one.lt##div[class^="banner-container"]
-one.lt##div[id^="gate."]
+on.lt##div#ad
+on.lt##div#support
 online.lt##div#ad
 online.lt##div#support
+one.lt##div[class^="banner-container"]
+one.lt##div[id^="gate."]
 panele.lt##div.top_banner_div
 pasiulymubankas.lt##div.banner
 pasmama.lt##div.advert
