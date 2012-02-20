@@ -11,6 +11,7 @@
 ||adsplius.lt^$script
 ||ap.delfi.lt/b?*
 ||b-a.lt/reklama/*
+||elektronika.lt/_sys/img/reklama*
 ||ipon.lt^$script
 ||m-1.fm/banner/*
 ||moteris.lt/uploads/img/banners/*
@@ -48,6 +49,8 @@ delfi.lt##div.delfi-content-ads
 delfi.lt##div#delfi-header-ads
 diena.lt##div#topReklama
 einam.lt##div#banner_index_container
+elektronika.lt##table[width="960"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#000000"]
+elektronika.lt##td[align="center"][bgcolor="#ffffff"][style="border: 1px solid rgb(0, 0, 0);"]
 erolt.com##div.rekl
 f-1.lt##div#bottombanners
 formule1.lt##div[class^="banner"]
