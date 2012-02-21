@@ -9,6 +9,8 @@
 ||twitter.com^$third-party
 ||vk.com^$third-party
 ! === Slepiantys filtrai ===
+##a[href*="facebook.com"]
+##a[href*="twitter.com"]
 ##div.FB_Loader
 ##div#shareit-container
 ~addthis.com##div.addthis_toolbox
