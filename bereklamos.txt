@@ -68,6 +68,8 @@ krs.lt##div#right_banner
 laikas.lt##div[class^="banner"]
 lenta.lt##td[style="height: 200px;"]
 lol.lt##div.related-message-box
+lrt.lt##div#sf_marquee_holder
+lrt.lt##td[height="118"]
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 man.lt##td#sidebar1
