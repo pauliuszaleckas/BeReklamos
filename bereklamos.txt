@@ -88,6 +88,7 @@ one.lt##div[id^="gate."]
 panele.lt##div.top_banner_div
 pasiulymubankas.lt##div.banner
 pasmama.lt##div.advert
+pirkpigiau.lt##img.BannerImage
 powerhitradio.lt##div#container-ads
 powerhitradio.lt##div[style="height: 100px; background-color: rgb(0, 0, 0); width: 1096px;"]
 rekvizitai.lt##div.banners
