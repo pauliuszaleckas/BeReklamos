@@ -6,6 +6,7 @@
 ||alfa.lt/files/banners/share-sticky/*$script
 ||facebook.com^$third-party
 ||plusone.google.com^$third-party
+||twitter.com^$third-party
 ||vk.com^$third-party
 ! === Slepiantys filtrai ===
 ##div.FB_Loader
