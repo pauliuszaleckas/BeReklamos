@@ -2,17 +2,16 @@
 ! BeReklamos
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
-||120x60.lt^
-||120x60.lt^$script
+||120x60.lt^$third-party
 ||88x31.lt^
-||adclick.lt^$script
-||adocean.111.lt^$script
+||adclick.lt^$third-party
+||adocean.111.lt^$third-party
 ||adreview.lt/ad/*
-||adsplius.lt^$script
+||adsplius.lt^$third-party
 ||ap.delfi.lt/b?*
 ||b-a.lt/reklama/*
 ||elektronika.lt/_sys/img/reklama*
-||ipon.lt^$script
+||ipon.lt^$third-party
 ||m-1.fm/banner/*
 ||moteris.lt/uploads/img/banners/*
 ||pasveik.lt/uploads/images/banners/*
