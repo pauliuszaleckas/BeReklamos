@@ -16,6 +16,7 @@
 ||moteris.lt/uploads/img/banners/*
 ||pasveik.lt/uploads/images/banners/*
 ||pazintys.lt^*/Users_getSticky.js?$script
+||vektrona.lt/images/baneriai/*
 ! === Slepiantys filtrai ===
 1588.lt##div.banner_h
 15min.lt##div[id^="plius_infoblock"]
