@@ -27,6 +27,7 @@ delfi.lt##div.delfi-facebook-multichannel
 dyl.lt##div#fb-wrapper
 e-senukai.lt##div#social-marketing
 f-1.lt##div[style="padding: 5px; margin: 5px 0px; border: 1px solid rgb(170, 172, 174); text-align: center;"]
+f-1.lt##div[style="padding:5px; margin:5px 0px; border-style:solid; border-width:1px; border-color:#AAACAE; text-align:center"]
 f-1.lt##iframe.twitter-share-button
 gismeteo.lt##div#ad-lb
 interjeras.lt##div.social-blocks
