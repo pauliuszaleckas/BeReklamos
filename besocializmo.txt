@@ -9,9 +9,9 @@
 ||twitter.com^$third-party
 ||vk.com^$third-party
 ! === Slepiantys filtrai ===
-~google.com##a[href*="facebook.com"]
-~google.com##a[href*="linkedin.com"]
-~google.com##a[href*="twitter.com"]
+~google.com,~facebook.com##a[href*="facebook.com"]
+~google.com,~linkedin.com##a[href*="linkedin.com"]
+~google.com,~twitter.com##a[href*="twitter.com"]
 ##div.FB_Loader
 ##div#shareit-container
 ~addthis.com##div.addthis_toolbox
