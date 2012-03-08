@@ -50,6 +50,7 @@ delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 delfi.lt##div#article_banner
 delfi.lt##div#delfi-header-ads
+demotyvacijos.lt##div.advertisement-widget-advertisement
 diena.lt##div#topReklama
 einam.lt##div#banner_index_container
 elektronika.lt##table[width="960"][cellspacing="0"][cellpadding="0"][border="0"][bgcolor="#000000"]
