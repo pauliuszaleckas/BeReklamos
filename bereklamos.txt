@@ -4,6 +4,7 @@
 ! === Paprasti filtrai ===
 ||120x60.lt^$third-party
 ||88x31.lt^
+||adbox.lt^$third-party
 ||adclick.lt^$third-party
 ||adocean.111.lt^$third-party
 ||adreview.lt/ad/*
