@@ -118,6 +118,10 @@ ve.lt##div.textads2
 ve.lt##div.ve-friends-holder
 veidas.lt##div.ad120_box
 veidas.lt##.skelbimas
+verdiktas.lt##div[align="center"][style="width:180px"]
+verdiktas.lt##div#akcijaCentre
+verdiktas.lt##div#banner
+verdiktas.lt##div#ticker
 videogaga.one.lt##div.Banner-Menu
 videogaga.one.lt##iframe#banner-top
 xxx.pazintys.lt##div[style="margin-top: 15px; text-align: center;"]
