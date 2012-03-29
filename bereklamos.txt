@@ -72,6 +72,7 @@ interjeras.lt##div[id^="s-ads"]
 juokutis.one.lt##div.banner-container
 klubas.lt##div.klubas-ads-block
 krs.lt##div#right_banner
+kurier.lt##div[style="height: 100px; margin-bottom: 10px; margin-top: 10px; background: #FFF;"]
 laikas.lt##div[class^="banner"]
 lenta.lt##td[style="height: 200px;"]
 lol.lt##div.related-message-box
