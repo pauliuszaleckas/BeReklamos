@@ -38,6 +38,7 @@ autobild.veidas.lt##div[class^="textAD"]
 autogidas.lt##div.banner
 autogidas.lt##td#tprnb
 basketnews.lt##object#bbl_250x250
+blogas.lt##td[height="40"][align="right"][valign="middle"]
 computerbild.veidas.lt##div#sidebar-cats-ad
 cvbankas.lt##div.bottom_banner
 cvbankas.lt##div.righ_banner
