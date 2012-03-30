@@ -11,7 +11,7 @@
 ! === Slepiantys filtrai ===
 ~google.com,~facebook.com##a[href*="facebook.com"]
 ~google.com,~linkedin.com##a[href*="linkedin.com"]
-~google.com,~twitter.com##a[href*="twitter.com"]
+~google.com,~twitter.com,~15min.lt##a[href*="twitter.com"]
 ##div.FB_Loader
 ##div#shareit-container
 ~addthis.com##div.addthis_toolbox
