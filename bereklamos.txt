@@ -116,6 +116,7 @@ skelbiu.lt##div.advertisementTitle
 skytech.lt##div.friend-wrap
 skytech.lt##div.partners
 skytech.lt##span.friends
+splius.lt##div.class-banner
 sveikata.lt##div.advert
 technologijos.lt##iframe[src*="iframe_baneris"]
 tikeko.lt##div.banner
