@@ -12,6 +12,7 @@
 ||ap.delfi.lt/b?*
 ||b-a.lt/reklama/*
 ||elektronika.lt/_sys/img/reklama*
+||etaplius.lt/ads^$script
 ||ipon.lt^$third-party
 ||m-1.fm/banner/*
 ||moteris.lt/uploads/img/banners/*
@@ -59,6 +60,10 @@ elektronika.lt##table[width="960"][cellspacing="0"][cellpadding="0"][border="0"]
 elektronika.lt##td[align="center"][bgcolor="#ffffff"][style="border: 1px solid rgb(0, 0, 0);"]
 elta.lt##table[class="wf"][style="MARGIN-TOP: 6px; TEXT-ALIGN: center"]
 erolt.com##div.rekl
+etaplius.lt##div[style="background:#fff; width: 992px; /* height: 100px; */ margin: 0 auto; border-left: 1px solid white; border-right: 1px solid white; "]
+etaplius.lt##div.rek
+etaplius.lt##div#fixme
+etaplius.lt##div#widget_appthemes_125_ads
 f-1.lt##div#bottombanners
 fishki.lt##div.adblocks
 formule1.lt##div[class^="banner"]
