@@ -13,6 +13,7 @@
 ~google.com,~facebook.com##a[href*="facebook.com"]
 ~google.com,~linkedin.com##a[href*="linkedin.com"]
 ~google.com,~twitter.com,~15min.lt##a[href*="twitter.com"]
+##.fb_iframe_widget
 ##div.FB_Loader
 ##div#shareit-container
 ~addthis.com##div.addthis_toolbox
@@ -27,7 +28,6 @@ butunuoma.lt##div#vk_like
 delfi.lt##div.delfi-facebook-multichannel
 dyl.lt##div#fb-wrapper
 e-senukai.lt##div#social-marketing
-f-1.lt##.fb_iframe_widget
 f-1.lt##div[style="padding: 5px; margin: 5px 0px; border: 1px solid rgb(170, 172, 174); text-align: center;"]
 f-1.lt##div[style="padding:5px; margin:5px 0px; border-style:solid; border-width:1px; border-color:#AAACAE; text-align:center"]
 f-1.lt##iframe.twitter-share-button
