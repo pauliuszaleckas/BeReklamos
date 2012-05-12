@@ -23,6 +23,7 @@
 1588.lt##div.banner_h
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##div.ads-cnt
+15min.lt##div.plius_wrapper
 15min.lt##iframe[name="plius_frame_outer"]
 5braskes.lt##div.braskes-ads-iframe
 alfa.lt##div.AdComponent
