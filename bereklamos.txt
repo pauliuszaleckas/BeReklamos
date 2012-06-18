@@ -22,6 +22,8 @@
 ||vektrona.lt/images/baneriai/*
 ! === Slepiantys filtrai ===
 1588.lt##div.banner_h
+15min.lt##a.banner_bottom
+15min.lt##a.banner_top
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##div.ads-cnt
 15min.lt##div.plius_wrapper
