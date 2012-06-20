@@ -18,6 +18,7 @@
 ||moteris.lt/uploads/img/banners/*
 ||pasveik.lt/uploads/images/banners/*
 ||pazintys.lt^*/Users_getSticky.js?$script
+||samata.lt/out_data/banners/*
 ||vaikospinta.lt/ads/*^$third-party
 ||vektrona.lt/images/baneriai/*
 ! === Slepiantys filtrai ===
