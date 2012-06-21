@@ -44,6 +44,7 @@ auto.plius.lt##div.list-banner
 autobild.veidas.lt##div[class^="textAD"]
 autogidas.lt##div.banner
 autogidas.lt##td#tprnb
+automokyklos.lt##div.header1
 automokyklos.lt##div.reklama
 automokyklos.lt##div.reklamaadd
 basketnews.lt##object#bbl_250x250
