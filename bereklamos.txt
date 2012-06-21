@@ -14,6 +14,7 @@
 ||elektronika.lt/_sys/img/reklama*
 ||etaplius.lt/ads^$script
 ||ipon.lt^$third-party
+||lzskelbimai.com/banners/*
 ||m-1.fm/banner/*
 ||moteris.lt/uploads/img/banners/*
 ||pasveik.lt/uploads/images/banners/*
@@ -96,6 +97,7 @@ lrt.lt##table[width="105%"][style="margin-right: 0px;"]
 lrt.lt##td[height="118"]
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
+lzskelbimai.com##div#header_banners
 man.lt##td#sidebar1
 maps.lt##div.title-right-banner
 maps.lt##div#banner-1
