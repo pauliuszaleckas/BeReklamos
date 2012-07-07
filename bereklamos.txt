@@ -103,6 +103,7 @@ maps.lt##div.title-right-banner
 maps.lt##div#banner-1
 maps.lt##div#partneriai
 maps.lt##div#reklama
+marsrutai.lt##td.topBannerInner
 mokslai.lt##div#myBtn
 nezinau.lt##li#text-5
 on.lt##div#ad
