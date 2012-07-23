@@ -45,6 +45,9 @@ auto.plius.lt##div.list-banner
 autobild.veidas.lt##div[class^="textAD"]
 autogidas.lt##div.banner
 autogidas.lt##td#tprnb
+automedia.lt,manosveikata.lt,statybejums.lt##div.banners
+automedia.lt,manosveikata.lt,statybajums.lt##div.partners
+automedia.lt,manosveikata.lt,statybajums.lt##div#makeMeScrollable
 automokyklos.lt##div.header1
 automokyklos.lt##div.reklama
 automokyklos.lt##div.reklamaadd
@@ -86,6 +89,9 @@ gismeteo.lt##div#yandex
 imones.lt##div.banner
 interjeras.lt##div[id^="s-ads"]
 juokutis.one.lt##div.banner-container
+kelioniuklubas.lt##div.bannersl
+kelioniuklubas.lt##div.scrollerdiv
+kelioniuklubas.lt##div#topbanner
 klubas.lt##div.klubas-ads-block
 krs.lt##div#right_banner
 kurier.lt##div[style="height: 100px; margin-bottom: 10px; margin-top: 10px; background: #FFF;"]
