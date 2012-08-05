@@ -3,6 +3,7 @@
 ! Homepage: http://pauliuszaleckas.github.com/BeReklamos/
 ! === Paprasti filtrai ===
 ||120x60.lt^$third-party
+||15cdn.lt/img/banners/*
 ||88x31.lt^
 ||adbox.lt^$third-party
 ||adclick.lt^$third-party
@@ -26,6 +27,7 @@
 1588.lt##div.banner_h
 15min.lt##a.banner_bottom
 15min.lt##a.banner_top
+15min.lt##a.sprite-cont
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##div.ads-cnt
 15min.lt##div.plius_wrapper
