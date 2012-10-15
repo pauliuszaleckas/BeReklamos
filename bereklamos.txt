@@ -12,6 +12,7 @@
 ||adsplius.lt^$third-party
 ||ap.delfi.lt/b?*
 ||b-a.lt/reklama/*
+||bepolite.eu/banners/*
 ||elektronika.lt/_sys/img/reklama*
 ||etaplius.lt/ads^$script
 ||ipon.lt^$third-party
