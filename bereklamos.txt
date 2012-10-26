@@ -36,7 +36,10 @@
 15min.lt##div.plius_wrapper
 15min.lt##iframe[name="plius_frame_outer"]
 15min.lt##img[title="baneris"]
+5braskes.lt##div.braskes-ads-block
 5braskes.lt##div.braskes-ads-iframe
+5braskes.lt##div.delfi-ads-block
+5braskes.lt##div.delfi-article-banner
 alfa.lt##div.AdComponent
 alfa.lt##div.block_text_links
 alfa.lt##div.reklama
