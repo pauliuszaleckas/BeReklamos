@@ -5,6 +5,7 @@
 ||addthis.com^$third-party
 ||alfa.lt/files/banners/share-sticky/*$script
 ||facebook.com^$third-party
+||linkedin.com^$third-party
 ||plusone.google.com^$third-party
 ||sharethis.com^$third-party
 ||twitter.com^$third-party
