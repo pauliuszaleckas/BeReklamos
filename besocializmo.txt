@@ -26,6 +26,8 @@ automobiliuremontas.lt##div.st-taf
 automobiliuremontas.lt##p.facebook
 butunuoma.lt##div#vk_like
 delfi.lt##div.delfi-facebook-multichannel
+diena.lt##div.facebook_ico
+diena.lt##div.twitter_ico
 diena.lt##div#share_facebook
 diena.lt##div#share_google
 diena.lt##div#share_twitter
