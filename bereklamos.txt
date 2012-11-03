@@ -87,6 +87,7 @@ etaplius.lt##div[style="background:#fff; width: 992px; /* height: 100px; */ marg
 etaplius.lt##div.rek
 etaplius.lt##div#fixme
 etaplius.lt##div#widget_appthemes_125_ads
+f-1.lt##div[style="border: medium none; padding: 0px; margin: 0px; clear: both; position: relative; height: 200px; width: auto; text-align: center; z-index: 5000;"]
 f-1.lt##div#bottombanners
 fishki.lt##div.adblocks
 formule1.lt##div[class^="banner"]
