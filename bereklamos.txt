@@ -175,5 +175,6 @@ ziniur.lt##div.ads
 @@||skelbimai.one.lt/uploads/modules/ads/*
 @@||veidas.lt/wp-content/uploads/ads/*
 ~skelbiu.lt##.adprice
+~skelbiu.lt##.buttonAd
 ! === Tas kas turėtu būti EasyList rinkinyje ===
 ##div[id^="bmone2"]
