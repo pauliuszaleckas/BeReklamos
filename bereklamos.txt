@@ -100,6 +100,7 @@ greitai.lt##div.system_block_advertisement
 imones.lt##div.banner
 interjeras.lt##div[id^="s-ads"]
 juokutis.one.lt##div.banner-container
+kasvykstakaune.lt##div[id^="reklama-"]
 kelioniuklubas.lt##div.bannersl
 kelioniuklubas.lt##div.scrollerdiv
 kelioniuklubas.lt##div#topbanner
