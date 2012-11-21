@@ -41,4 +41,5 @@ gismeteo.lt##div#ad-lb
 interjeras.lt##div.social-blocks
 pigu.lt##a.addthis_button_facebook
 pigu.lt##a.t-fb
+soundcloud.com##div.social-sharing
 ! === Baltieji filtrai ===
