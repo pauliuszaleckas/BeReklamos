@@ -26,6 +26,7 @@ alio.lt##td.f_facebook
 automobiliuremontas.lt##div.st-taf
 automobiliuremontas.lt##p.facebook
 butunuoma.lt##div#vk_like
+delfi.lt##div.d_fbw
 delfi.lt##div.delfi-facebook-multichannel
 diena.lt##div.facebook_ico
 diena.lt##div.twitter_ico
