@@ -74,6 +74,7 @@ day.lt##div#reklama2
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-content-ads
 delfi.lt##div#alio-block-nt
+delfi.lt##div#alio-delfitv
 delfi.lt##div#article_banner
 delfi.lt##div#delfi-header-ads
 demotyvacijos.lt##div.advertisement-widget-advertisement
