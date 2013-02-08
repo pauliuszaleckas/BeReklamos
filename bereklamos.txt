@@ -32,6 +32,7 @@
 15min.lt##a.tele2_link
 15min.lt##div[id^="plius_infoblock"]
 15min.lt##div.ads-cnt
+15min.lt##div.adv_infoblock_footer
 15min.lt##div.banner
 15min.lt##div.plius_wrapper
 15min.lt##iframe[name="plius_frame_outer"]
