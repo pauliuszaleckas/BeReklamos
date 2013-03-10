@@ -124,6 +124,7 @@ lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 lzskelbimai.com##div#header_banners
 man.lt##td#sidebar1
+manodrabuziai.lt##div.top-banner
 maps.lt##div.title-right-banner
 maps.lt##div#banner-1
 maps.lt##div#partneriai
