@@ -45,6 +45,7 @@ alfa.lt##div.AdComponent
 alfa.lt##div.block_text_links
 alfa.lt##div.reklama
 alio.lt##div#banner-top
+aruodas.lt##div.ad-box
 aruodas.lt##div.banner-bottom
 aruodas.lt##div.banner-top
 aruodas.lt##td.banners-right
