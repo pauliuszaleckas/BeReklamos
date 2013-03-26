@@ -18,6 +18,7 @@
 ||ipon.lt^$third-party
 ||lzskelbimai.com/banners/*
 ||m-1.fm/banner/*
+||misterp.lt/banners/*
 ||moteris.lt/uploads/img/banners/*
 ||pasveik.lt/uploads/images/banners/*
 ||pazintys.lt^*/Users_getSticky.js?$script
