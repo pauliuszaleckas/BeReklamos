@@ -76,6 +76,7 @@ day.lt##div[style="line-height: 25px; margin: 15px 8px 2px auto;"]
 day.lt##li[style="margin-top: 7px;"]
 day.lt##div#reklama
 day.lt##div#reklama2
+delfi.lt##div.delfi-ads-widget
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-category-alio
 delfi.lt##div.delfi-content-ads
