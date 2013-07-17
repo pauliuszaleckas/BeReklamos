@@ -140,6 +140,9 @@ maps.lt##div#reklama
 marsrutai.lt##td.topBannerInner
 miske.lt##a.sam_ad
 mokslai.lt##div#myBtn
+motomanai.lt##div[style*="screen_wave.gif"]
+motomanai.lt##div.bannercenter
+motomanai.lt##div.bannerleft
 nezinau.lt##li#text-5
 on.lt##div#ad
 on.lt##div#support
