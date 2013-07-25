@@ -133,6 +133,7 @@ lzskelbimai.com##div#header_banners
 man.lt##td#sidebar1
 manodrabuziai.lt##div.ad-box
 manodrabuziai.lt##div.top-banner
+manonamai.lt##div.article-banner
 maps.lt##div.title-right-banner
 maps.lt##div#banner-1
 maps.lt##div#partneriai
