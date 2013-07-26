@@ -130,6 +130,7 @@ lrt.lt##td[height="118"]
 lrytas.lt##div.t_3_5
 lrytas.lt##div.reklama_marker
 lzskelbimai.com##div#header_banners
+mamanija.lt##div.banners
 man.lt##td#sidebar1
 manodrabuziai.lt##div.ad-box
 manodrabuziai.lt##div.top-banner
