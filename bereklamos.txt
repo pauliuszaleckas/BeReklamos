@@ -87,6 +87,7 @@ delfi.lt##div#article_banner
 delfi.lt##div#delfi-header-ads
 demotyvacijos.lt##div.advertisement-widget-advertisement
 diena.lt##div#topReklama
+domo.plius.lt##div.ads
 einam.lt##div#banner_index_container
 elektronika.lt##table[border="0"][width="300"][cellspacing="0"][cellpadding="0"]
 elektronika.lt##table[width="300"][style="margin-top:6px; margin-bottom:6px"]
