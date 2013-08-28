@@ -45,3 +45,4 @@ pigu.lt##a.t-fb
 soundcloud.com##div.social-sharing
 ! === Baltieji filtrai ===
 @@||facebook.com/video/*
+@@||platform.twitter.com/widgets.js
