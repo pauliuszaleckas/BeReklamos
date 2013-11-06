@@ -81,6 +81,7 @@ delfi.lt##div.delfi-ads-widget
 delfi.lt##div.delfi-article-banner
 delfi.lt##div.delfi-category-alio
 delfi.lt##div.delfi-content-ads
+delfi.lt##div#alio-block-dk
 delfi.lt##div#alio-block-nt
 delfi.lt##div#alio-delfitv
 delfi.lt##div#article_banner
