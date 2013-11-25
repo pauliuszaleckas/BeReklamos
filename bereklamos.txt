@@ -126,6 +126,7 @@ krs.lt##div#right_banner
 kurier.lt##div[style="height: 100px; margin-bottom: 10px; margin-top: 10px; background: #FFF;"]
 laikas.lt##div[class^="banner"]
 lenta.lt##td[style="height: 200px;"]
+lnkgo.lt##div.bannersBlockInnerHolder
 lol.lt##div.related-message-box
 lrt.lt##div#sf_marquee_holder
 lrt.lt##table[width="105%"][style="margin-right: 0px;"]
