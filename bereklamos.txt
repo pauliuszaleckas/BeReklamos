@@ -193,6 +193,8 @@ verdiktas.lt##div#banner
 verdiktas.lt##div#ticker
 videogaga.one.lt##div.Banner-Menu
 videogaga.one.lt##iframe#banner-top
+vz.lt##div#topBanner
+vz.lt##div.bannerbox
 xxx.pazintys.lt##div[style="margin-top: 15px; text-align: center;"]
 zaidimai88.lt##div.group_add
 zebra.lt##div.adsColectionCntnr
