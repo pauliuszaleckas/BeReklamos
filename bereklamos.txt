@@ -87,6 +87,7 @@ delfi.lt##div#alio-block-nt
 delfi.lt##div#alio-delfitv
 delfi.lt##div#article_banner
 delfi.lt##div#delfi-header-ads
+delfi.lt##iframe[style="width: 250px; height: 660px; overflow: hidden; border: 0px"]
 demotyvacijos.lt##div.advertisement-widget-advertisement
 diena.lt##div#topReklama
 domo.plius.lt##div.ads
